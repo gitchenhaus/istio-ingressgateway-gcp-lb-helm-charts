@@ -24,10 +24,10 @@ gateway:
     maxReplicas: 10
 
 
-coreNamespace: sport-betting
+coreNamespace: testNamespace
 
 coreGateway:
-  name: sport-betting-gateway
+  name: test-gateway
 
 enableGCLB: true
 ## Below setting on "enableGCLB : true" 
